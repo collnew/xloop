@@ -1,4 +1,4 @@
 {
-  "firebase_db_url": "https://your-firebase-default-rtdb.firebaseio.com/",
-  "firebase_api_key": "your_firebase_api_key_here"
+  "firebase_db_url": "https://x-loop-default-rtdb.asia-southeast1.firebasedatabase.app/",
+  "firebase_api_key": "AIzaSyDgVJGjquSM_r1XSalXMNHipG9khlz3lhI"
 }
