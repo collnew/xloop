@@ -1,0 +1,4 @@
+{
+  "firebase_db_url": "https://your-firebase-default-rtdb.firebaseio.com/",
+  "firebase_api_key": "your_firebase_api_key_here"
+}
